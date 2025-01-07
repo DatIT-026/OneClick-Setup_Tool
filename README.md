@@ -11,6 +11,5 @@ Please feel free to reach out to me through these channels.
 - Social Media: [Facebook](https://www.facebook.com/datit.dev/)
 
 ## Disclaimer
-This project is for research purposes only. Illegal use is strictly prohibited.
 
-This project is licensed under the [MIT License](LICENSE).
+This repo is licensed under the [MIT License](LICENSE).
